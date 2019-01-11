@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+#container{
+    display: block;
+    text-align: center;
+
+}
+
+#time{
+    display: block;
+    border: 1px solid black;
+    width: 500px;
+    margin: 0 auto;
+}
